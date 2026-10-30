@@ -1,0 +1,8 @@
+{
+  "repository": "moeru-ai/airi",
+  "ref": "dfd9453beaab3af43a40f9bdacebdcb0d51f2723",
+  "path": "packages/stage-ui-three/src/assets/vrm/index.ts",
+  "blobSha": "c91b0e87664fda13d631ddb42414da8d0120a98e",
+  "url": "https://github.com/moeru-ai/airi/blob/dfd9453beaab3af43a40f9bdacebdcb0d51f2723/packages/stage-ui-three/src/assets/vrm/index.ts",
+  "content": "export * from './animations'\n"
+}

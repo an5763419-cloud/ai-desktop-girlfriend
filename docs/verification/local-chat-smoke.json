@@ -1,0 +1,44 @@
+[
+  {
+    "question": "你好，请用中文简单介绍你能做什么。",
+    "answer": "我是一个中文对话测试助手，可以回答问题、进行简单的对话交流，帮助用户了解我的功能。",
+    "seconds": 14.18,
+    "usage": {
+      "completion_tokens": 23,
+      "prompt_tokens": 44,
+      "total_tokens": 67,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "finishReason": "stop"
+  },
+  {
+    "question": "我喜欢茉莉花茶，之后聊天请记住。",
+    "answer": "好的，我记住了你的喜好，以后交流时会特别注意茉莉花茶的话题。",
+    "seconds": 11.0,
+    "usage": {
+      "completion_tokens": 21,
+      "prompt_tokens": 87,
+      "total_tokens": 108,
+      "prompt_tokens_details": {
+        "cached_tokens": 40
+      }
+    },
+    "finishReason": "stop"
+  },
+  {
+    "question": "我刚才说喜欢什么茶？",
+    "answer": "刚才你提到喜欢茉莉花茶，我记住了。",
+    "seconds": 8.4,
+    "usage": {
+      "completion_tokens": 14,
+      "prompt_tokens": 124,
+      "total_tokens": 138,
+      "prompt_tokens_details": {
+        "cached_tokens": 83
+      }
+    },
+    "finishReason": "stop"
+  }
+]

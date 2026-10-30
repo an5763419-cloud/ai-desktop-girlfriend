@@ -1,0 +1,18 @@
+{
+  "source": "packages/stage-ui/src/assets/vrm/models/AvatarSample-A/AvatarSample_A.vrm",
+  "meta": {
+    "allowedUserName": "Everyone",
+    "author": "VRoid Project",
+    "commercialUssageName": "Allow",
+    "contactInformation": "https://www.pixiv.net/support.php?mode=select_vroid",
+    "licenseName": "Other",
+    "otherLicenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+    "otherPermissionUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+    "sexualUssageName": "Allow",
+    "texture": 6,
+    "title": "AvatarSample_A",
+    "version": "1.0",
+    "violentUssageName": "Allow"
+  },
+  "status": "File metadata only. Full terms and final character selection remain pending."
+}

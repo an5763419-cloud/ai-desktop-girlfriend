@@ -1,3 +1,7 @@
+> **ai桌面女友：M0 验证中。** 本分支复用 AIRI，固定基线为 `dfd9453`。
+> 进度见 [docs/status.md](docs/status.md)，运行记录见 [M0 验证](docs/verification/m0-2026-10-30.md)。
+> 当前没有本项目 EXE。下面保留上游 README，其下载按钮指向上游产品。
+
 <picture>
   <source
     width="100%"

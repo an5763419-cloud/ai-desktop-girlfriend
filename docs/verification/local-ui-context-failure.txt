@@ -1,0 +1,12 @@
+0.00.015.080 I srv  llama_server: initializing ...
+0.00.318.388 I cmn  common_param: common_params_print_info: verbosity = 3 (adjust with the `-lv N` CLI arg)
+0.00.318.841 W srv  server_setup: security: no API key is set and CORS allows all origins (see https://github.com/ggml-org/llama.cpp/pull/25655)
+0.00.344.726 I srv    load_model: loading model '/workspace/models/Qwen3-1.7B-Q8_0.gguf'
+0.00.996.495 W load: control-looking token: 128247 '</s>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.03.458.934 I cmn          init: llama threadpool init, n_threads = 2
+0.06.885.903 I srv    load_model: initializing, n_slots = 1, n_ctx_slot = 16384, kv_unified = 'false'
+0.06.906.838 I srv  server_run_i: model loaded
+0.06.906.861 I srv  server_on_li: listening on http://127.0.0.1:8081
+0.25.888.499 I slot get_availabl: id  0 | task -1 | selected slot by LRU, n_tokens = 0, t_last = -1
+0.25.896.034 I slot launch_slot_: id  0 | task 0 | processing task, is_child = 0
+4.53.179.102 I slot print_timing: id  0 | task 0 | prompt processing, n_tokens =   2048, progress = 0.20, t = 267.28 s / 7.66 tokens per second
