@@ -30,4 +30,3 @@
 上游已核查的入口为 `pnpm dev:tamagotchi` 与 `pnpm -F @proj-airi/stage-tamagotchi build:win`。
 实际构建还需要原生依赖和 Godot 资源。完整调查见 Windows 构建路线。
 这些命令尚未执行，不能据此标记构建成功。
-
