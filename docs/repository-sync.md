@@ -2,7 +2,7 @@
 
 正式仓库：https://github.com/an5763419-cloud/ai-desktop-girlfriend。
 仓库保持私有。当前开发分支：codex/feat/airi-m0。
-main 保留用户创建的初始记录。完整开发成果从当前开发分支读取。
+main 保留用户创建的初始记录，并提供完整源码与进度入口。完整开发成果从当前开发分支读取。
 upstream 指向 moeru-ai/airi，只用于调查和取回已确定的上游提交。
 
 ## 每次开始
@@ -20,7 +20,7 @@ upstream 指向 moeru-ai/airi，只用于调查和取回已确定的上游提交
 ## Windows 接续约定
 
 项目位于 E:\ai\ai桌面女友。当前尚未连接用户 Windows，不能宣称目录已经创建。
-首次克隆时选择 codex/feat/airi-m0，而不是只有初始 README 的 main。
+首次克隆时选择 codex/feat/airi-m0。main 的 README 提供该分支入口。
 同步代码不等于安装完成。本地依赖、模型权重和工具缓存不作为源码上传。
 模型版本、资源来源、许可和复现命令保存在验证文档中。
 
