@@ -1,11 +1,28 @@
 # 项目进度
 
-更新：2026-10-30（北京时间）
+更新：2026-10-31（北京时间）
 当前分支：`codex/feat/airi-m0`
 当前阶段：M0 部分完成，运行门槛未通过。M1–M3 未开始。
 可运行产物：原版开发环境已启动验证，本轮结束后停止测试进程。EXE：无。
 真实 UI 截图：`docs/verification/screenshots/m0-web-onboarding.png`。
 Windows 实测：未执行。用户电脑未连接。
+
+## 2026-10-31 角色制作与仓库权限
+
+- 用户否决上游 3D 示例外观，只允许作为技术测试素材。
+- 已确认外观方向：明确成年、成熟优雅、自然真人感。脸型、发型和衣装仍待候选预览。
+- 角色制作独立放在 art/characters，同一仓库管理，共用聊天、记忆和语音核心。
+- Blender 4.3.2 云端启动通过。MPFB 2.0.18 生成带权重网格与 53 骨游戏骨架，并保存 .blend。
+- 保存文件重新打开通过，已有输出保护验证通过。统计与命令见 docs/verification/character-authoring-2026-10-31.md。
+- 脚本位于 scripts/character-authoring/probe-mpfb.py。技术底模不是正式角色或审美候选。
+- MPFB 随附资产 CC0-1.0，代码 GPL-3.0-or-later。外部皮肤、头发、衣装需另核许可。
+- VRM Add-on 4.10.3 已下载，尚未验证导出。写实程序预览和 Q版未完成。
+- 用户提供正式私有仓库：https://github.com/an5763419-cloud/ai-desktop-girlfriend。
+- 按准确链接重新检查，GitHub 插件仍返回 404，不能确认读写权限。没有推送或覆盖远程文件。
+- 已配置本地 origin 为用户提供的正式地址，保留 upstream 作为上游来源。
+- 额外联网的 CLI 检查被工具返回 aborted by user，未取得 CLI 检查结果。
+- 已请用户在 GitHub 应用授权中加入该私有仓库。无需改为公开。
+- 本轮继续准备角色制作链路，M0 聊天与 Windows 打包阻塞保持不变。
 
 ## 2026-10-30 最新进展
 

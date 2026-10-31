@@ -1,0 +1,38 @@
+{
+  "status": "technical-probe-only",
+  "blender": "4.3.2",
+  "mpfb": [
+    2,
+    0,
+    18
+  ],
+  "rig_profile": "mpfb-game-engine",
+  "vertices": 19158,
+  "polygons": 18486,
+  "vertex_groups": 204,
+  "bones": 53,
+  "macro_parameters": {
+    "gender": 0.5,
+    "age": 0.5,
+    "muscle": 0.5,
+    "weight": 0.5,
+    "proportions": 0.5,
+    "height": 0.5,
+    "cupsize": 0.5,
+    "firmness": 0.5,
+    "race": {
+      "asian": 0.33,
+      "caucasian": 0.33,
+      "african": 0.33
+    }
+  },
+  "blend_file": "mpfb-rig-probe.blend",
+  "not_verified": [
+    "approved appearance",
+    "VRM export",
+    "AIRI rendering",
+    "speech visemes",
+    "expressions",
+    "chibi proportions"
+  ]
+}
